@@ -49,7 +49,7 @@
     "laravel/prompts": "^0.1.21",
     "league/container": "^4.2",
     "psy/psysh": "~0.12",
-    "symfony/event-dispatcher": "^7",
+    "symfony/event-dispatcher": "^6 || ^7",
     "symfony/filesystem": "^6.1 || ^7",
     "symfony/finder": "^6 || ^7",
     "symfony/var-dumper": "^6.0 || ^7",
